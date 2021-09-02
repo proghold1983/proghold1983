@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @proghold1983: Benjamin Holder
-- 👀 I’m interested in computer science/learning to code
+- 👀 I’m interested in changing careers into either front end or full stack development
 - 🌱 I’m currently learning Full Stack Development 
 - 💞️ I’m looking to collaborate on learning anything programming-related
 - 📫 How to reach me benholder1983@gmail.com

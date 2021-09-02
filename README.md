@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @proghold1983
+- 👋 Hi, I’m @proghold1983: Benjamin Holder
 - 👀 I’m interested in computer science/learning to code
-- 🌱 I’m currently learning CS50  
+- 🌱 I’m currently learning Full Stack Development 
 - 💞️ I’m looking to collaborate on learning anything programming-related
 - 📫 How to reach me benholder1983@gmail.com
 
